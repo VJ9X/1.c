@@ -1,2 +1,4 @@
 # 1.c
-Add anything you guys want as long as it is awesome
+This is 1.c, the greatest file in existence!
+
+Make sure to make awesome changes to this file!
